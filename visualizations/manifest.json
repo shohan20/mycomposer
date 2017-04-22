@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "shohan20": {
+    "title": "Md. Shorifuzzaman",
+    "website": "https://github.com/shohan20",
+    "logo": "https://avatars2.githubusercontent.com/u/8000491?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/shohan20",
           "versions": {
             "1.0.0": {
               "simple": {
